@@ -259,6 +259,10 @@ footer a {
 
 #lastest{
     padding-top: 10px;
+    list-style: none;
+    text-decoration: none;
+    color: #000;
+    margin: 0 271%;
 }
 
 
